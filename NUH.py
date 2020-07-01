@@ -1,5 +1,4 @@
 import netmiko
-from paramiko.ssh_exception import NoValidConnectionsError
 
 #MB Admin VDC .253
 #KRW Admin VDC .254
